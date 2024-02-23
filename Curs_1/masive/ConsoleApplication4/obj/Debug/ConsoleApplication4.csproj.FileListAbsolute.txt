@@ -1,0 +1,37 @@
+C:\Users\Cristian\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Cristian\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Cristian\Desktop\ConsoleApplication4\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Cristian\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Cristian\Desktop\ConsoleApplication4\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Cristian\Desktop\Curs 1 PAW\masive\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Cristian\Desktop\Curs 1 PAW\masive\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Cristian\Desktop\Curs 1 PAW\masive\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 1 PAW\masive\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 1 PAW\masive\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 1 PAW\masive\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 1 PAW\masive\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 1 PAW\masive\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 1 PAW\masive\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Curs 1 PAW\masive\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Curs 1 PAW\masive\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Cristian\Desktop\Curs 1 PAW\masive\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Cristian\Downloads\Curs 1 PAW\masive\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Cristian\Downloads\Curs 1 PAW\masive\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Cristian\Downloads\Curs 1 PAW\masive\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Cristian\Downloads\Curs 1 PAW\masive\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Cristian\Downloads\Curs 1 PAW\masive\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Cristian\Downloads\Curs 1 PAW\masive\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 1 PAW\masive\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 1 PAW\masive\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 1 PAW\masive\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 1 PAW\masive\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 1 PAW\masive\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 1 PAW\masive\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2022\masive\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe.config
+C:\Users\Administrator\Desktop\PAW 2022\masive\ConsoleApplication4\bin\Debug\ConsoleApplication4.exe
+C:\Users\Administrator\Desktop\PAW 2022\masive\ConsoleApplication4\bin\Debug\ConsoleApplication4.pdb
+C:\Users\Administrator\Desktop\PAW 2022\masive\ConsoleApplication4\obj\Debug\ConsoleApplication4.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2022\masive\ConsoleApplication4\obj\Debug\ConsoleApplication4.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2022\masive\ConsoleApplication4\obj\Debug\ConsoleApplication4.exe
+C:\Users\Administrator\Desktop\PAW 2022\masive\ConsoleApplication4\obj\Debug\ConsoleApplication4.pdb

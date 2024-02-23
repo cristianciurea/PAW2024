@@ -1,0 +1,50 @@
+C:\Users\cristi\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\cristi\Desktop\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\cristi\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\cristi\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\cristi\Desktop\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 1\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 1\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Curs 1 PAW\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Cristian\Desktop\Curs 1 PAW\ConsoleApplication1\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Cristian\Desktop\Curs 1 PAW\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Cristian\Desktop\Curs 1 PAW\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 1 PAW\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 1 PAW\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 1 PAW\pointeri\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 1 PAW\pointeri\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Cristian\Desktop\PAW 2013-2014\Curs 1 PAW\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Downloads\Curs 1 PAW\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Cristian\Downloads\Curs 1 PAW\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Cristian\Downloads\Curs 1 PAW\pointeri\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Cristian\Downloads\Curs 1 PAW\pointeri\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Cristian\Downloads\Curs 1 PAW\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Curs 1 PAW\pointeri\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Cristian\Desktop\Curs 1 PAW\pointeri\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Cristian\Desktop\Curs 1 PAW\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 1 PAW\pointeri\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 1 PAW\pointeri\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 1 PAW\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 1 PAW\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 1 PAW\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Desktop\PAW 2022\pointeri\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Desktop\PAW 2022\pointeri\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Desktop\PAW 2022\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2022\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2022\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Desktop\PAW 2022\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Desktop\PAW 2022\Curs_1\pointeri\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Desktop\PAW 2022\Curs_1\pointeri\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Desktop\PAW 2022\Curs_1\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2022\Curs_1\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2022\Curs_1\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Desktop\PAW 2022\Curs_1\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Dropbox\Cursuri si seminarii\Licenta\PAW\2023-2024\Curs_1\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csprojAssemblyReference.cache
+C:\Users\Administrator\Dropbox\Cursuri si seminarii\Licenta\PAW\2023-2024\Curs_1\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Dropbox\Cursuri si seminarii\Licenta\PAW\2023-2024\Curs_1\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Dropbox\Cursuri si seminarii\Licenta\PAW\2023-2024\Curs_1\pointeri\ConsoleApplication1\obj\x86\Debug\ConsoleApplication1.pdb
+C:\Users\Administrator\Dropbox\Cursuri si seminarii\Licenta\PAW\2023-2024\Curs_1\pointeri\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+C:\Users\Administrator\Dropbox\Cursuri si seminarii\Licenta\PAW\2023-2024\Curs_1\pointeri\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
