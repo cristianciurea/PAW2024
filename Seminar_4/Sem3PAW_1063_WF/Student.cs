@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sem3PAW_1063_WF
 {
-    class Student : Persoana, IMedia, ICloneable, IComparable
+    public class Student : Persoana, IMedia, ICloneable, IComparable
     {
         private string nume;
         private int varsta;

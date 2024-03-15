@@ -29,6 +29,7 @@ namespace Sem3PAW_1063_WF
         /// </summary>
         private void InitializeComponent()
         {
+            this.components = new System.ComponentModel.Container();
             this.label1 = new System.Windows.Forms.Label();
             this.tbCod = new System.Windows.Forms.TextBox();
             this.label2 = new System.Windows.Forms.Label();
@@ -40,30 +41,36 @@ namespace Sem3PAW_1063_WF
             this.tbNote = new System.Windows.Forms.TextBox();
             this.label5 = new System.Windows.Forms.Label();
             this.button1 = new System.Windows.Forms.Button();
+            this.errorProvider1 = new System.Windows.Forms.ErrorProvider(this.components);
+            this.button2 = new System.Windows.Forms.Button();
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).BeginInit();
             this.SuspendLayout();
             // 
             // label1
             // 
             this.label1.AutoSize = true;
-            this.label1.Location = new System.Drawing.Point(164, 48);
+            this.label1.Location = new System.Drawing.Point(219, 59);
+            this.label1.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label1.Name = "label1";
-            this.label1.Size = new System.Drawing.Size(29, 13);
+            this.label1.Size = new System.Drawing.Size(36, 16);
             this.label1.TabIndex = 0;
             this.label1.Text = "Cod:";
             // 
             // tbCod
             // 
-            this.tbCod.Location = new System.Drawing.Point(217, 48);
+            this.tbCod.Location = new System.Drawing.Point(289, 59);
+            this.tbCod.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbCod.Name = "tbCod";
-            this.tbCod.Size = new System.Drawing.Size(100, 20);
+            this.tbCod.Size = new System.Drawing.Size(132, 22);
             this.tbCod.TabIndex = 1;
             // 
             // label2
             // 
             this.label2.AutoSize = true;
-            this.label2.Location = new System.Drawing.Point(167, 88);
+            this.label2.Location = new System.Drawing.Point(223, 108);
+            this.label2.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label2.Name = "label2";
-            this.label2.Size = new System.Drawing.Size(28, 13);
+            this.label2.Size = new System.Drawing.Size(34, 16);
             this.label2.TabIndex = 2;
             this.label2.Text = "Sex:";
             // 
@@ -73,74 +80,97 @@ namespace Sem3PAW_1063_WF
             this.cbSex.Items.AddRange(new object[] {
             "M",
             "F"});
-            this.cbSex.Location = new System.Drawing.Point(217, 88);
+            this.cbSex.Location = new System.Drawing.Point(289, 108);
+            this.cbSex.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.cbSex.Name = "cbSex";
-            this.cbSex.Size = new System.Drawing.Size(121, 21);
+            this.cbSex.Size = new System.Drawing.Size(160, 24);
             this.cbSex.TabIndex = 3;
             // 
             // label3
             // 
             this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(167, 124);
+            this.label3.Location = new System.Drawing.Point(223, 153);
+            this.label3.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(38, 13);
+            this.label3.Size = new System.Drawing.Size(47, 16);
             this.label3.TabIndex = 4;
             this.label3.Text = "Nume:";
             // 
             // tbNume
             // 
-            this.tbNume.Location = new System.Drawing.Point(217, 124);
+            this.tbNume.Location = new System.Drawing.Point(289, 153);
+            this.tbNume.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbNume.Name = "tbNume";
-            this.tbNume.Size = new System.Drawing.Size(100, 20);
+            this.tbNume.Size = new System.Drawing.Size(132, 22);
             this.tbNume.TabIndex = 5;
             // 
             // label4
             // 
             this.label4.AutoSize = true;
-            this.label4.Location = new System.Drawing.Point(167, 167);
+            this.label4.Location = new System.Drawing.Point(223, 206);
+            this.label4.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label4.Name = "label4";
-            this.label4.Size = new System.Drawing.Size(40, 13);
+            this.label4.Size = new System.Drawing.Size(50, 16);
             this.label4.TabIndex = 6;
             this.label4.Text = "Varsta:";
             // 
             // tbVarsta
             // 
-            this.tbVarsta.Location = new System.Drawing.Point(217, 167);
+            this.tbVarsta.Location = new System.Drawing.Point(289, 206);
+            this.tbVarsta.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbVarsta.Name = "tbVarsta";
-            this.tbVarsta.Size = new System.Drawing.Size(100, 20);
+            this.tbVarsta.Size = new System.Drawing.Size(132, 22);
             this.tbVarsta.TabIndex = 7;
             // 
             // tbNote
             // 
-            this.tbNote.Location = new System.Drawing.Point(217, 208);
+            this.tbNote.Location = new System.Drawing.Point(289, 256);
+            this.tbNote.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.tbNote.Name = "tbNote";
-            this.tbNote.Size = new System.Drawing.Size(100, 20);
+            this.tbNote.Size = new System.Drawing.Size(132, 22);
             this.tbNote.TabIndex = 9;
             // 
             // label5
             // 
             this.label5.AutoSize = true;
-            this.label5.Location = new System.Drawing.Point(167, 208);
+            this.label5.Location = new System.Drawing.Point(223, 256);
+            this.label5.Margin = new System.Windows.Forms.Padding(4, 0, 4, 0);
             this.label5.Name = "label5";
-            this.label5.Size = new System.Drawing.Size(33, 13);
+            this.label5.Size = new System.Drawing.Size(40, 16);
             this.label5.TabIndex = 8;
             this.label5.Text = "Note:";
             // 
             // button1
             // 
-            this.button1.Location = new System.Drawing.Point(172, 272);
+            this.button1.Location = new System.Drawing.Point(229, 335);
+            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(166, 55);
+            this.button1.Size = new System.Drawing.Size(221, 68);
             this.button1.TabIndex = 10;
             this.button1.Text = "Creare student";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
+            // errorProvider1
+            // 
+            this.errorProvider1.ContainerControl = this;
+            // 
+            // button2
+            // 
+            this.button2.Location = new System.Drawing.Point(508, 335);
+            this.button2.Name = "button2";
+            this.button2.Size = new System.Drawing.Size(199, 68);
+            this.button2.TabIndex = 11;
+            this.button2.Text = "Vizualizare date";
+            this.button2.UseVisualStyleBackColor = true;
+            this.button2.Click += new System.EventHandler(this.button2_Click);
+            // 
             // Form1
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(1067, 554);
+            this.Controls.Add(this.button2);
             this.Controls.Add(this.button1);
             this.Controls.Add(this.tbNote);
             this.Controls.Add(this.label5);
@@ -152,8 +182,10 @@ namespace Sem3PAW_1063_WF
             this.Controls.Add(this.label2);
             this.Controls.Add(this.tbCod);
             this.Controls.Add(this.label1);
+            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Form1";
             this.Text = "Form1";
+            ((System.ComponentModel.ISupportInitialize)(this.errorProvider1)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -172,6 +204,8 @@ namespace Sem3PAW_1063_WF
         private System.Windows.Forms.TextBox tbNote;
         private System.Windows.Forms.Label label5;
         private System.Windows.Forms.Button button1;
+        private System.Windows.Forms.ErrorProvider errorProvider1;
+        private System.Windows.Forms.Button button2;
     }
 }
 

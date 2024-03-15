@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Sem3PAW_1063_WF
 {
-    abstract class Persoana
+    public abstract class Persoana
     {
         private int cod;
         private char sex;
