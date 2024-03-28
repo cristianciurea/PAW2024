@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem6PAW_1063\bin\Debug\Sem6PAW_1063.exe.config
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem6PAW_1063\bin\Debug\Sem6PAW_1063.exe
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem6PAW_1063\bin\Debug\Sem6PAW_1063.pdb
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem6PAW_1063\obj\Debug\Sem6PAW_1063.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem6PAW_1063\obj\Debug\Sem6PAW_1063.Form1.resources
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem6PAW_1063\obj\Debug\Sem6PAW_1063.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem6PAW_1063\obj\Debug\Sem6PAW_1063.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem6PAW_1063\obj\Debug\Sem6PAW_1063.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem6PAW_1063\obj\Debug\Sem6PAW_1063.exe
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem6PAW_1063\obj\Debug\Sem6PAW_1063.pdb
