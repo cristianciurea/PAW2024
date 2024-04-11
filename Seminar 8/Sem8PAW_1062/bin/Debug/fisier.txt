@@ -1,0 +1,4 @@
+100;Gigel;9,5;2;CSIE
+200;Maricica;8,9;3;REI
+500;Ionel;8,5;2;CSIE
+600;Vasilica;8,9;1;FABBV

@@ -1,0 +1,3 @@
+100|9|Calea Dorobanti 15|133,5
+400|4|Bucurestii Noi 10|65,7
+500|10|Piata Gemeni 5|100,5
