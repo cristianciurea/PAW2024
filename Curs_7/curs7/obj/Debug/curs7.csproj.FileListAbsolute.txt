@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs7\bin\Debug\curs7.exe.config
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs7\bin\Debug\curs7.exe
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs7\bin\Debug\curs7.pdb
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs7\obj\Debug\curs7.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs7\obj\Debug\curs7.Form1.resources
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs7\obj\Debug\curs7.Form2.resources
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs7\obj\Debug\curs7.Form3.resources
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs7\obj\Debug\curs7.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs7\obj\Debug\curs7.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs7\obj\Debug\curs7.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs7\obj\Debug\curs7.exe
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs7\obj\Debug\curs7.pdb
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs7\obj\Debug\curs7.Form4.resources
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs7\obj\Debug\curs7.Form5.resources

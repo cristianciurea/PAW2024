@@ -1,0 +1,11 @@
+100,Gigel,8
+200,Maricica,10
+222,Viorel,7
+333,Ionicica,9
+444,Viorica,6
+222,Viorel,7
+333,Ionicica,9
+444,Viorica,6
+222,Viorel,7
+333,Ionicica,9
+444,Viorica,6

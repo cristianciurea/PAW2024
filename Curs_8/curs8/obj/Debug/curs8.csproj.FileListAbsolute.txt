@@ -1,0 +1,10 @@
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs8\bin\Debug\curs8.exe.config
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs8\bin\Debug\curs8.exe
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs8\bin\Debug\curs8.pdb
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs8\obj\Debug\curs8.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs8\obj\Debug\curs8.Form1.resources
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs8\obj\Debug\curs8.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs8\obj\Debug\curs8.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs8\obj\Debug\curs8.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs8\obj\Debug\curs8.exe
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs8\obj\Debug\curs8.pdb
