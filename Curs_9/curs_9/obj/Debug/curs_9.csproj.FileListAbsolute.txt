@@ -1,0 +1,12 @@
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs_9\bin\Debug\curs_9.exe.config
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs_9\bin\Debug\curs_9.exe
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs_9\bin\Debug\curs_9.pdb
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs_9\obj\Debug\curs_9.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs_9\obj\Debug\curs_9.Form1.resources
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs_9\obj\Debug\curs_9.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs_9\obj\Debug\curs_9.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs_9\obj\Debug\curs_9.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs_9\obj\Debug\curs_9.exe
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs_9\obj\Debug\curs_9.pdb
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs_9\obj\Debug\curs_9.Form2.resources
+C:\Users\Administrator\Desktop\PAW 2022\2024\curs_9\obj\Debug\curs_9.Form3.resources
