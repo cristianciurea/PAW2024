@@ -1,0 +1,133 @@
+C:\Users\Cristian\Desktop\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.exe.config
+C:\Users\Cristian\Desktop\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.exe
+C:\Users\Cristian\Desktop\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.pdb
+C:\Users\Cristian\Desktop\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.dll
+C:\Users\Cristian\Desktop\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cristian\Desktop\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.dll
+C:\Users\Cristian\Desktop\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Cristian\Desktop\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Cristian\Desktop\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.xml
+C:\Users\Cristian\Desktop\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cristian\Desktop\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.xml
+C:\Users\Cristian\Desktop\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.Form1.resources
+C:\Users\Cristian\Desktop\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.Properties.Resources.resources
+C:\Users\Cristian\Desktop\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.exe
+C:\Users\Cristian\Desktop\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.pdb
+C:\Users\Cristian\Desktop\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.exe.config
+C:\Users\Cristian\Desktop\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.exe
+C:\Users\Cristian\Desktop\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.pdb
+C:\Users\Cristian\Desktop\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.exe
+C:\Users\Cristian\Desktop\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.pdb
+C:\Users\Cristian\Desktop\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.dll
+C:\Users\Cristian\Desktop\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cristian\Desktop\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.dll
+C:\Users\Cristian\Desktop\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Cristian\Desktop\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Cristian\Desktop\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.xml
+C:\Users\Cristian\Desktop\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cristian\Desktop\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.xml
+C:\Users\Cristian\Desktop\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.Form1.resources
+C:\Users\Cristian\Desktop\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.Properties.Resources.resources
+C:\Users\Cristian\Desktop\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.exe.config
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.exe
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.pdb
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.exe
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.pdb
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.dll
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.dll
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.xml
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.xml
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.Form1.resources
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.Properties.Resources.resources
+C:\Users\Cristian\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.exe.config
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.exe
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.pdb
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.Form1.resources
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.exe
+C:\Users\Administrator\Desktop\PAW 2016-2017\Curs 11 PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.pdb
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.exe.config
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.exe
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.pdb
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.Form1.resources
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.Properties.Resources.resources
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csproj.CopyComplete
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.exe
+C:\Users\Administrator\Desktop\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.pdb
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.exe.config
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.exe
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.pdb
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.Form1.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.exe
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.pdb
+C:\Users\Administrator\Desktop\PAW 2022\Curs11_PAW\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.UserControl1.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.Form1.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.Properties.Resources.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.UserControl1.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.exe
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.pdb
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.exe.config
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.exe
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\bin\Debug\SQLiteEF.pdb
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.dll
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.dll
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\bin\Debug\System.Data.SQLite.dll.config
+C:\Users\Administrator\source\repos\PAW2022\Curs_11\SQLiteEF\SQLiteEF\obj\Debug\SQLiteEF.csproj.CopyComplete

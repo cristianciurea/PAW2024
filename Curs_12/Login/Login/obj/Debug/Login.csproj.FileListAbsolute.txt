@@ -1,0 +1,14 @@
+C:\Users\Cristian\Desktop\Login\Login\bin\Debug\Login.dll
+C:\Users\Cristian\Desktop\Login\Login\bin\Debug\Login.pdb
+C:\Users\Cristian\Desktop\Login\Login\obj\Debug\Login.Login.resources
+C:\Users\Cristian\Desktop\Login\Login\obj\Debug\Login.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\Login\Login\obj\Debug\Login.dll
+C:\Users\Cristian\Desktop\Login\Login\obj\Debug\Login.pdb
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\Login\Login\bin\Debug\Login.dll
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\Login\Login\bin\Debug\Login.pdb
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\Login\Login\obj\Debug\Login.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\Login\Login\obj\Debug\Login.Login.resources
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\Login\Login\obj\Debug\Login.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\Login\Login\obj\Debug\Login.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\Login\Login\obj\Debug\Login.dll
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\Login\Login\obj\Debug\Login.pdb

@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\PAW 2022\2024\Login2024\bin\Debug\Login2024.dll
+C:\Users\Administrator\Desktop\PAW 2022\2024\Login2024\bin\Debug\Login2024.pdb
+C:\Users\Administrator\Desktop\PAW 2022\2024\Login2024\obj\Debug\Login2024.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\Login2024\obj\Debug\Login2024.Login2024.resources
+C:\Users\Administrator\Desktop\PAW 2022\2024\Login2024\obj\Debug\Login2024.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\Login2024\obj\Debug\Login2024.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\Login2024\obj\Debug\Login2024.dll
+C:\Users\Administrator\Desktop\PAW 2022\2024\Login2024\obj\Debug\Login2024.pdb

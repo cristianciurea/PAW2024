@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\WindowsFormsControlLibrary1\bin\Debug\WindowsFormsControlLibrary1.pdb
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.ControlDataNastere.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\WindowsFormsControlLibrary1\obj\Debug\WindowsFormsControlLibrary1.pdb

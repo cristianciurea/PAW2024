@@ -1,0 +1,139 @@
+C:\Users\Cristian\Desktop\i18n\i18n\bin\Debug\i18n.exe.config
+C:\Users\Cristian\Desktop\i18n\i18n\bin\Debug\i18n.exe
+C:\Users\Cristian\Desktop\i18n\i18n\bin\Debug\i18n.pdb
+C:\Users\Cristian\Desktop\i18n\i18n\bin\Debug\es\i18n.resources.dll
+C:\Users\Cristian\Desktop\i18n\i18n\bin\Debug\fr\i18n.resources.dll
+C:\Users\Cristian\Desktop\i18n\i18n\obj\Debug\i18n.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\i18n\i18n\obj\Debug\i18n.Form1.resources
+C:\Users\Cristian\Desktop\i18n\i18n\obj\Debug\i18n.Properties.Resources.resources
+C:\Users\Cristian\Desktop\i18n\i18n\obj\Debug\i18n.Form1.es.resources
+C:\Users\Cristian\Desktop\i18n\i18n\obj\Debug\i18n.Form1.fr.resources
+C:\Users\Cristian\Desktop\i18n\i18n\obj\Debug\i18n.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\i18n\i18n\obj\Debug\es\i18n.resources.dll
+C:\Users\Cristian\Desktop\i18n\i18n\obj\Debug\fr\i18n.resources.dll
+C:\Users\Cristian\Desktop\i18n\i18n\obj\Debug\i18n.exe
+C:\Users\Cristian\Desktop\i18n\i18n\obj\Debug\i18n.pdb
+C:\Users\Cristian\Desktop\i18n\i18n\bin\Debug\ro\i18n.resources.dll
+C:\Users\Cristian\Desktop\i18n\i18n\obj\Debug\i18n.Form1.ro.resources
+C:\Users\Cristian\Desktop\i18n\i18n\obj\Debug\ro\i18n.resources.dll
+C:\Users\Cristian\Desktop\i18n\i18n\bin\Debug\it\i18n.resources.dll
+C:\Users\Cristian\Desktop\i18n\i18n\obj\Debug\i18n.Form1.it.resources
+C:\Users\Cristian\Desktop\i18n\i18n\obj\Debug\it\i18n.resources.dll
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\bin\Debug\i18n.exe.config
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.exe
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.pdb
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\bin\Debug\i18n.exe
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\bin\Debug\i18n.pdb
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\bin\Debug\es\i18n.resources.dll
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\bin\Debug\fr\i18n.resources.dll
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\bin\Debug\it\i18n.resources.dll
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\bin\Debug\ro\i18n.resources.dll
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.Form1.resources
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.Properties.Resources.resources
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.Form1.es.resources
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.Form1.fr.resources
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.Form1.it.resources
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.Form1.ro.resources
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\es\i18n.resources.dll
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\fr\i18n.resources.dll
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\it\i18n.resources.dll
+C:\Users\Cristian\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\ro\i18n.resources.dll
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\bin\Debug\i18n.exe.config
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\bin\Debug\i18n.exe
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\bin\Debug\i18n.pdb
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\bin\Debug\es\i18n.resources.dll
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\bin\Debug\fr\i18n.resources.dll
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\bin\Debug\it\i18n.resources.dll
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\bin\Debug\ro\i18n.resources.dll
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.Form1.resources
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.Form1.es.resources
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.Form1.fr.resources
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.Form1.it.resources
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.Form1.ro.resources
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\es\i18n.resources.dll
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\fr\i18n.resources.dll
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\it\i18n.resources.dll
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\ro\i18n.resources.dll
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.exe
+C:\Users\Administrator\Desktop\PAW 2018-2019\i18n\i18n\obj\Debug\i18n.pdb
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\bin\Debug\i18n.exe.config
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\bin\Debug\i18n.exe
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\bin\Debug\i18n.pdb
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\bin\Debug\es\i18n.resources.dll
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\bin\Debug\fr\i18n.resources.dll
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\bin\Debug\it\i18n.resources.dll
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\bin\Debug\ro\i18n.resources.dll
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\obj\Debug\i18n.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\obj\Debug\i18n.Form1.resources
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\obj\Debug\i18n.Properties.Resources.resources
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\obj\Debug\i18n.Form1.es.resources
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\obj\Debug\i18n.Form1.fr.resources
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\obj\Debug\i18n.Form1.it.resources
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\obj\Debug\i18n.Form1.ro.resources
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\obj\Debug\i18n.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\obj\Debug\i18n.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\obj\Debug\es\i18n.resources.dll
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\obj\Debug\fr\i18n.resources.dll
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\obj\Debug\it\i18n.resources.dll
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\obj\Debug\ro\i18n.resources.dll
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\obj\Debug\i18n.exe
+C:\Users\Administrator\source\repos\PAW2021\Curs12_PAW\i18n\i18n\obj\Debug\i18n.pdb
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\bin\Debug\i18n.exe.config
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\bin\Debug\i18n.exe
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\bin\Debug\i18n.pdb
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\bin\Debug\de\i18n.resources.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\bin\Debug\es\i18n.resources.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\bin\Debug\fr\i18n.resources.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\bin\Debug\it\i18n.resources.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\bin\Debug\ro\i18n.resources.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\obj\Debug\i18n.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\obj\Debug\i18n.Form1.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\obj\Debug\i18n.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\obj\Debug\i18n.Form1.de.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\obj\Debug\i18n.Form1.es.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\obj\Debug\i18n.Form1.fr.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\obj\Debug\i18n.Form1.it.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\obj\Debug\i18n.Form1.ro.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\obj\Debug\i18n.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\obj\Debug\i18n.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\obj\Debug\de\i18n.resources.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\obj\Debug\es\i18n.resources.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\obj\Debug\fr\i18n.resources.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\obj\Debug\it\i18n.resources.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\obj\Debug\ro\i18n.resources.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\obj\Debug\i18n.exe
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\i18n\i18n\obj\Debug\i18n.pdb
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\bin\Debug\i18n.exe.config
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\bin\Debug\i18n.exe
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\bin\Debug\i18n.pdb
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\bin\Debug\de\i18n.resources.dll
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\bin\Debug\es\i18n.resources.dll
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\bin\Debug\fr\i18n.resources.dll
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\bin\Debug\it\i18n.resources.dll
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\bin\Debug\ro\i18n.resources.dll
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\obj\Debug\i18n.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\obj\Debug\i18n.Form1.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\obj\Debug\i18n.Properties.Resources.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\obj\Debug\i18n.Form1.de.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\obj\Debug\i18n.Form1.es.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\obj\Debug\i18n.Form1.fr.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\obj\Debug\i18n.Form1.it.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\obj\Debug\i18n.Form1.ro.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\obj\Debug\i18n.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\obj\Debug\i18n.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\obj\Debug\de\i18n.resources.dll
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\obj\Debug\es\i18n.resources.dll
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\obj\Debug\fr\i18n.resources.dll
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\obj\Debug\it\i18n.resources.dll
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\obj\Debug\ro\i18n.resources.dll
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\obj\Debug\i18n.exe
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\obj\Debug\i18n.pdb
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\bin\Debug\tr\i18n.resources.dll
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\obj\Debug\i18n.Form1.tr.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\i18n\i18n\obj\Debug\tr\i18n.resources.dll

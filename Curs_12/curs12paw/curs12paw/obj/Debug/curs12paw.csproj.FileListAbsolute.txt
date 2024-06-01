@@ -1,0 +1,73 @@
+C:\Users\Cristian\Desktop\curs12paw\curs12paw\bin\Debug\curs12paw.exe.config
+C:\Users\Cristian\Desktop\curs12paw\curs12paw\bin\Debug\curs12paw.exe
+C:\Users\Cristian\Desktop\curs12paw\curs12paw\bin\Debug\curs12paw.pdb
+C:\Users\Cristian\Desktop\curs12paw\curs12paw\obj\Debug\curs12paw.Ceas.resources
+C:\Users\Cristian\Desktop\curs12paw\curs12paw\obj\Debug\curs12paw.Form1.resources
+C:\Users\Cristian\Desktop\curs12paw\curs12paw\obj\Debug\curs12paw.Form2.resources
+C:\Users\Cristian\Desktop\curs12paw\curs12paw\obj\Debug\curs12paw.LinkLabel.resources
+C:\Users\Cristian\Desktop\curs12paw\curs12paw\obj\Debug\curs12paw.ListaTari.resources
+C:\Users\Cristian\Desktop\curs12paw\curs12paw\obj\Debug\curs12paw.Properties.Resources.resources
+C:\Users\Cristian\Desktop\curs12paw\curs12paw\obj\Debug\curs12paw.csproj.GenerateResource.Cache
+C:\Users\Cristian\Desktop\curs12paw\curs12paw\obj\Debug\curs12paw.exe
+C:\Users\Cristian\Desktop\curs12paw\curs12paw\obj\Debug\curs12paw.pdb
+C:\Users\Cristian\Desktop\curs12paw\curs12paw\bin\Debug\Login.dll
+C:\Users\Cristian\Desktop\curs12paw\curs12paw\bin\Debug\Login.pdb
+C:\Users\Cristian\Desktop\curs12paw\curs12paw\obj\Debug\curs12paw.csprojResolveAssemblyReference.cache
+C:\Users\Cristian\Desktop\curs12paw\curs12paw\obj\Debug\curs12paw.Form3.resources
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\curs12paw\curs12paw\bin\Debug\curs12paw.exe.config
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\curs12paw\curs12paw\bin\Debug\curs12paw.exe
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\curs12paw\curs12paw\bin\Debug\curs12paw.pdb
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\curs12paw\curs12paw\bin\Debug\Login.dll
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\curs12paw\curs12paw\bin\Debug\Login.pdb
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\curs12paw\curs12paw\obj\Debug\curs12paw.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\curs12paw\curs12paw\obj\Debug\curs12paw.Ceas.resources
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\curs12paw\curs12paw\obj\Debug\curs12paw.Form1.resources
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\curs12paw\curs12paw\obj\Debug\curs12paw.Form2.resources
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\curs12paw\curs12paw\obj\Debug\curs12paw.Form3.resources
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\curs12paw\curs12paw\obj\Debug\curs12paw.LinkLabel.resources
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\curs12paw\curs12paw\obj\Debug\curs12paw.ListaTari.resources
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\curs12paw\curs12paw\obj\Debug\curs12paw.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\curs12paw\curs12paw\obj\Debug\curs12paw.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\curs12paw\curs12paw\obj\Debug\curs12paw.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\curs12paw\curs12paw\obj\Debug\curs12paw.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\curs12paw\curs12paw\obj\Debug\curs12paw.exe
+C:\Users\Administrator\Desktop\PAW 2018-2019\curs 12 PAW\curs12paw\curs12paw\obj\Debug\curs12paw.pdb
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\curs12paw\curs12paw\bin\Debug\curs12paw.exe.config
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\curs12paw\curs12paw\bin\Debug\curs12paw.exe
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\curs12paw\curs12paw\bin\Debug\curs12paw.pdb
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\curs12paw\curs12paw\bin\Debug\Login.dll
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\curs12paw\curs12paw\bin\Debug\Login.pdb
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\curs12paw\curs12paw\obj\Debug\curs12paw.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\curs12paw\curs12paw\obj\Debug\curs12paw.Ceas.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\curs12paw\curs12paw\obj\Debug\curs12paw.Form1.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\curs12paw\curs12paw\obj\Debug\curs12paw.Form2.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\curs12paw\curs12paw\obj\Debug\curs12paw.Form3.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\curs12paw\curs12paw\obj\Debug\curs12paw.LinkLabel.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\curs12paw\curs12paw\obj\Debug\curs12paw.ListaTari.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\curs12paw\curs12paw\obj\Debug\curs12paw.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\curs12paw\curs12paw\obj\Debug\curs12paw.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\curs12paw\curs12paw\obj\Debug\curs12paw.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\curs12paw\curs12paw\obj\Debug\curs12paw.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\curs12paw\curs12paw\obj\Debug\curs12paw.exe
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\curs12paw\curs12paw\obj\Debug\curs12paw.pdb
+C:\Users\Administrator\Desktop\PAW 2022\Curs12_PAW\curs12paw\curs12paw\obj\Debug\curs12paw.LinkLabelSite.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\bin\Debug\curs12paw.exe.config
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\bin\Debug\curs12paw.exe
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\bin\Debug\curs12paw.pdb
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\bin\Debug\Login.dll
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\bin\Debug\Login.pdb
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\obj\Debug\curs12paw.csprojAssemblyReference.cache
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\obj\Debug\curs12paw.Ceas.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\obj\Debug\curs12paw.Form1.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\obj\Debug\curs12paw.Form2.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\obj\Debug\curs12paw.Form3.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\obj\Debug\curs12paw.LinkLabel.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\obj\Debug\curs12paw.LinkLabelSite.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\obj\Debug\curs12paw.ListaTari.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\obj\Debug\curs12paw.Properties.Resources.resources
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\obj\Debug\curs12paw.csproj.GenerateResource.cache
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\obj\Debug\curs12paw.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\obj\Debug\curs12paw.csproj.CopyComplete
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\obj\Debug\curs12paw.exe
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\obj\Debug\curs12paw.pdb
+C:\Users\Administrator\source\repos\PAW2022\Curs_12\curs12paw\curs12paw\obj\Debug\curs12paw.Form4.resources

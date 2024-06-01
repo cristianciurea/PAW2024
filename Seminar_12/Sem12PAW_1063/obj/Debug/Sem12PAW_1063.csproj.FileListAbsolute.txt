@@ -1,0 +1,17 @@
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem12PAW_1063\bin\Debug\Sem12PAW_1063.exe.config
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem12PAW_1063\bin\Debug\Sem12PAW_1063.exe
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem12PAW_1063\bin\Debug\Sem12PAW_1063.pdb
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem12PAW_1063\obj\Debug\Sem12PAW_1063.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem12PAW_1063\obj\Debug\Sem12PAW_1063.DataOra.resources
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem12PAW_1063\obj\Debug\Sem12PAW_1063.Form1.resources
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem12PAW_1063\obj\Debug\Sem12PAW_1063.Properties.Resources.resources
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem12PAW_1063\obj\Debug\Sem12PAW_1063.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem12PAW_1063\obj\Debug\Sem12PAW_1063.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem12PAW_1063\obj\Debug\Sem12PAW_1063.exe
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem12PAW_1063\obj\Debug\Sem12PAW_1063.pdb
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem12PAW_1063\obj\Debug\Sem12PAW_1063.Logo.resources
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem12PAW_1063\bin\Debug\ListaTari1063.dll
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem12PAW_1063\bin\Debug\ListaTari1063.pdb
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem12PAW_1063\obj\Debug\Sem12PAW_1063.csproj.CopyComplete
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem12PAW_1063\bin\Debug\Login1063.dll
+C:\Users\Administrator\Desktop\PAW 2022\2024\Sem12PAW_1063\bin\Debug\Login1063.pdb

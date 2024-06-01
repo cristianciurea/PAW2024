@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\PAW 2022\2024\ListaTari\bin\Debug\ListaTari.dll
+C:\Users\Administrator\Desktop\PAW 2022\2024\ListaTari\bin\Debug\ListaTari.pdb
+C:\Users\Administrator\Desktop\PAW 2022\2024\ListaTari\obj\Debug\ListaTari.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\ListaTari\obj\Debug\ListaTari.ListaTari2024.resources
+C:\Users\Administrator\Desktop\PAW 2022\2024\ListaTari\obj\Debug\ListaTari.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\ListaTari\obj\Debug\ListaTari.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\ListaTari\obj\Debug\ListaTari.dll
+C:\Users\Administrator\Desktop\PAW 2022\2024\ListaTari\obj\Debug\ListaTari.pdb

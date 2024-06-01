@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\PAW 2022\2024\Login1063\bin\Debug\Login1063.dll
+C:\Users\Administrator\Desktop\PAW 2022\2024\Login1063\bin\Debug\Login1063.pdb
+C:\Users\Administrator\Desktop\PAW 2022\2024\Login1063\obj\Debug\Login1063.csprojAssemblyReference.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\Login1063\obj\Debug\Login1063.Login1063.resources
+C:\Users\Administrator\Desktop\PAW 2022\2024\Login1063\obj\Debug\Login1063.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\Login1063\obj\Debug\Login1063.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\PAW 2022\2024\Login1063\obj\Debug\Login1063.dll
+C:\Users\Administrator\Desktop\PAW 2022\2024\Login1063\obj\Debug\Login1063.pdb
